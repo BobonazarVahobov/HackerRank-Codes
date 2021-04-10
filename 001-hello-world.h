@@ -1,9 +1,8 @@
 #include "iostream"
-
 using namespace std;
 
-int hello(){
-    cout << "Hello, World";
+int helloWorld(){
+    cout << "Hello, World!";
     return 0;
-}
 
+}
